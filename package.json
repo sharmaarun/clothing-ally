@@ -1,0 +1,38 @@
+{
+  "name": "cloaker-template",
+  "version": "1.0.0",
+  "description": "Cloaker Template Site",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "prod": "forever start server.js prod",
+    "stop": "forever stopall",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Sharma",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.1",
+    "cors": "^2.8.4",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "log4js": "^3.0.5",
+    "mongoose": "^5.3.8",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.8",
+    "nodemon": "^1.18.4",
+    "nodemonitor": "0.0.1",
+    "path": "^0.12.7",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "forever": "^0.15.3",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
