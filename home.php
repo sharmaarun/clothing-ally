@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/filter.php' ?>
 <!--Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported

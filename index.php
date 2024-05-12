@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/filter.php' ?>
 <html lang="de" class="translated-ltr">
   <head>
     <title>KLEID MARKT</title>

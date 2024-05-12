@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/filter.php' ?>
 <!DOCTYPE html>
 <!-- saved from url=(0040)/about.html -->
 <html lang="de" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
