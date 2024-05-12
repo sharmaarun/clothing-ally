@@ -63,7 +63,7 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MännerkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Männerkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -96,7 +96,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FrauenkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frauenkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -126,7 +126,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KinderkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kinderkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="container">
                                     <div class="row w3_kids  py-3">

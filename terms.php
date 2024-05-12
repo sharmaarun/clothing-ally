@@ -63,7 +63,7 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MännerkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Männerkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -96,7 +96,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FrauenkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Frauenkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -126,12 +126,12 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KinderkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kinderkleid</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="container">
                                     <div class="row w3_kids  py-3">
                                         <div class="col-md-3 ">
-                                            <span class="bg-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">JungenkLEID</font></font></span>
+                                            <span class="bg-light"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jungenkleid</font></font></span>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T-Shirts</font></font></font></font></a>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mäntel</font></font></font></font></a>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hemden</font></font></font></font></a>
@@ -148,7 +148,7 @@
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Schlauch</font></font></font></font></a>
                                         </div>
                                         <div class="col-md-3">
-                                            <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MädchenkLEID</font></font></span>
+                                            <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mädchenkleid</font></font></span>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T-Shirts</font></font></font></font></a>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kleider</font></font></font></font></a>
                                             <a class="dropdown-item" href="https://www.shopbop.com/sale/br/v=1/13594.htm?extid=affprg_linkshare_SB-J84DHJLQkR4&amp;cvosrc=affiliate.linkshare.J84DHJLQkR4&amp;clickid=Ux5RYZxO6xyJUbT0UfQwQyYMUkgQAawcYznBy40&amp;subid1=J84DHJLQkR4-AMadgLHa_Fuw9g.w2_d.kw&amp;sharedid=42352"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Tunika</font></font></font></font></a>

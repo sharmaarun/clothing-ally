@@ -128,7 +128,7 @@
                   aria-expanded="false"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
-                      >MännerkLEID</font
+                      >Männerkleid</font
                     ></font
                   ></a
                 >
@@ -320,7 +320,7 @@
                   aria-expanded="false"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
-                      >FrauenkLEID</font
+                      >Frauenkleid</font
                     ></font
                   ></a
                 >
@@ -485,7 +485,7 @@
                   aria-expanded="false"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
-                      >KinderkLEID</font
+                      >Kinderkleid</font
                     ></font
                   ></a
                 >
@@ -496,7 +496,7 @@
                         <span class="bg-light"
                           ><font style="vertical-align: inherit"
                             ><font style="vertical-align: inherit"
-                              >JungenkLEID</font
+                              >Jungenkleid</font
                             ></font
                           ></span
                         >
@@ -3452,7 +3452,7 @@
                     ></span
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit">
-                      LEID
+                      LEIDER
                     </font></font
                   ><span
                     ><font style="vertical-align: inherit"
