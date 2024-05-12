@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0040)/about.html -->
 <html lang="de" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>KLEID MARKT</title>
+    <title>Kleiderhaus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <meta name="keywords" content="Fashion Hub Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -40,7 +40,7 @@
             <nav class="top_nav d-flex pt-3 pb-1">
                 <!-- logo -->
                 <h1>
-                    <a class="navbar-brand" href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KLEID-MARKT
+                    <a class="navbar-brand" href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kleiderhaus
                     </font></font></a>
                 </h1>
                 <!-- //logo -->
@@ -194,8 +194,8 @@
 	<!-- inner banner -->
 	<div class="ibanner_w3 pt-sm-5 pt-3">
 		<h4 class="head_agileinfo text-center text-capitalize text-center pt-5">
-			<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leid
-			 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">M</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> arkt</font></font></h4>
+			<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leider
+			 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> aus</font></font></h4>
 	</div>
 	<!-- //inner banner -->
     <!-- breadcrumbs -->
@@ -221,7 +221,7 @@
                                 <h5 class="card-title font-weight-bold"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></h5>
                                 <div class="col-md-12 ab_pic_w3ls_text_info">
 				    
-					<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es ist unsere Mission, die Art und Weise zu verändern, wie Menschen KLEID finden, die sie lieben, indem wir Technologie mit der persönlichen Note erfahrener Stilexperten kombinieren. </font><font style="vertical-align: inherit;">Das KLEID-MARKT-Erlebnis ist nicht nur kuratiert – es ist wirklich auf Sie zugeschnitten. </font><font style="vertical-align: inherit;">Wir sind hier, um Ihnen zu helfen, Zeit zu sparen, gut auszusehen und Ihren persönlichen Stil im Laufe der Zeit zu entwickeln.</font></font></p>
+					<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es ist unsere Mission, die Art und Weise zu verändern, wie Menschen Kleiderfinden, die sie lieben, indem wir Technologie mit der persönlichen Note erfahrener Stilexperten kombinieren. </font><font style="vertical-align: inherit;">Das Kleiderhaus-Erlebnis ist nicht nur kuratiert – es ist wirklich auf Sie zugeschnitten. </font><font style="vertical-align: inherit;">Wir sind hier, um Ihnen zu helfen, Zeit zu sparen, gut auszusehen und Ihren persönlichen Stil im Laufe der Zeit zu entwickeln.</font></font></p>
 					<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wir sind stolz darauf, mit Tausenden von leidenschaftlichen Stylisten aus den ganzen USA zusammenzuarbeiten. Sie sind Trendsetter und Modeexperten, die motiviert sind, Ihren Stil und Ihre sich entwickelnden Bedürfnisse kennenzulernen, um die perfekten Stücke für Sie zu finden. </font><font style="vertical-align: inherit;">Ihr Stilprofil antwortet und kontinuierliches Feedback treibt den Motor des Stitch Fix-Erlebnisses an.</font></font></p>
 				</div>
 				
@@ -429,10 +429,10 @@
                     <div class="cpy-right align-self-center">
                         <h2 class="agile_btxt">
                             <a href="/">
-                                <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leid
-                                 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">M</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> arkt</font></font></a>
+                                <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leider
+                                 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> aus</font></font></a>
                         </h2>
-                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2020-21 KLEID-Ally. </font><font style="vertical-align: inherit;">Alle Rechte vorbehalten 
+                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2020-21 KleiderAlly. </font><font style="vertical-align: inherit;">Alle Rechte vorbehalten 
                         </font></font></p>
                     </div>
                 </div>
@@ -683,4 +683,3 @@
 
 
 
-<div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="./clothing_ally_germ_files/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><a href="/about.html#" id="toTop">To Top</a><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>

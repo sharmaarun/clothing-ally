@@ -1,6 +1,6 @@
 <?php require __DIR__ . '/filter.php' ?>
 <html lang="de" class="translated-ltr"><head>
-    <title>KLEID MARKT</title>
+    <title>Kleiderhaus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="Fashion Hub Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -38,7 +38,7 @@
             <nav class="top_nav d-flex pt-3 pb-1">
                 <!-- logo -->
                 <h1>
-                    <a class="navbar-brand" href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KLEID-MARKT
+                    <a class="navbar-brand" href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kleiderhaus
                     </font></font></a>
                 </h1>
                 <!-- //logo -->
@@ -192,8 +192,8 @@
 	<!-- inner banner -->
 	<div class="ibanner_w3 pt-sm-5 pt-3">
 		<h4 class="head_agileinfo text-center text-capitalize text-center pt-5">
-			<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leid
-			 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">M</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> arkt</font></font></h4>
+			<span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leider
+			 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> aus</font></font></h4>
 	</div>
 	<!-- //inner banner -->
     <!-- breadcrumbs -->
@@ -598,10 +598,10 @@ zugreifen können Beispiele für Informationen, auf die Sie auf den Websites lei
                     <div class="cpy-right align-self-center">
                         <h2 class="agile_btxt">
                             <a href="/">
-                                <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leid
-                                 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">M</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> arkt</font></font></a>
+                                <span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">K</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> leider
+                                 </font></font><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">H</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> aus</font></font></a>
                         </h2>
-                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2020-21 KLEID-Ally. </font><font style="vertical-align: inherit;">Alle Rechte vorbehalten 
+                        <p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2020-21 KleiderAlly. </font><font style="vertical-align: inherit;">Alle Rechte vorbehalten 
                         </font></font></p>
                     </div>
                 </div>
@@ -850,6 +850,3 @@ zugreifen können Beispiele für Informationen, auf die Sie auf den Websites lei
     gtag('config', 'G-KQ7NDYSSHH');
     </script>
 
-
-
-<div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><a href="#" id="toTop">To Top</a><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body></html>

@@ -1,12 +1,12 @@
 <?php require __DIR__ . '/filter.php' ?>
 <html lang="de" class="translated-ltr">
   <head>
-    <title>KLEID MARKT</title>
+    <title>Kleiderhaus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="utf-8" />
     <meta
       name="keywords"
-      content="KLEID-MARKT Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+      content="Kleiderhaus Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design"
     />
     <script
@@ -72,7 +72,7 @@
             <a class="navbar-brand" href="/"
               ><font style="vertical-align: inherit"
                 ><font style="vertical-align: inherit"
-                  >KLEID-MARKT
+                  >Kleiderhaus
                 </font></font
               ></a
             >
@@ -740,19 +740,19 @@
                     ><font style="vertical-align: inherit">K</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> leid </font></font
+                  ><font style="vertical-align: inherit"> leider </font></font
                 ><span
                   ><font style="vertical-align: inherit"
-                    ><font style="vertical-align: inherit">M</font></font
+                    ><font style="vertical-align: inherit">H</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> arkt </font></font
+                  ><font style="vertical-align: inherit"> aus </font></font
                 >
               </h3>
               <h4 class="w3_bbot">
                 <font style="vertical-align: inherit"
                   ><font style="vertical-align: inherit"
-                    >exklusive KLEID shoppen</font
+                    >exklusive Kleidershoppen</font
                   ></font
                 >
               </h4>
@@ -760,7 +760,7 @@
                 <h4 class="bn_right">
                   <span
                     ><font style="vertical-align: inherit"
-                      ><font style="vertical-align: inherit">m</font></font
+                      ><font style="vertical-align: inherit">M</font></font
                     ></span
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"> en des </font></font
@@ -858,19 +858,19 @@
                     ><font style="vertical-align: inherit">K</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> leid </font></font
+                  ><font style="vertical-align: inherit"> leider </font></font
                 ><span
                   ><font style="vertical-align: inherit"
-                    ><font style="vertical-align: inherit">M</font></font
+                    ><font style="vertical-align: inherit">H</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> arkt </font></font
+                  ><font style="vertical-align: inherit"> aus </font></font
                 >
               </h3>
               <h4 class="w3_bbot">
                 <font style="vertical-align: inherit"
                   ><font style="vertical-align: inherit"
-                    >exklusive KLEID shoppen</font
+                    >exklusive Kleidershoppen</font
                   ></font
                 >
               </h4>
@@ -975,19 +975,19 @@
                     ><font style="vertical-align: inherit">K</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> leid </font></font
+                  ><font style="vertical-align: inherit"> leider </font></font
                 ><span
                   ><font style="vertical-align: inherit"
-                    ><font style="vertical-align: inherit">M</font></font
+                    ><font style="vertical-align: inherit">H</font></font
                   ></span
                 ><font style="vertical-align: inherit"
-                  ><font style="vertical-align: inherit"> arkt </font></font
+                  ><font style="vertical-align: inherit"> aus </font></font
                 >
               </h3>
               <h4 class="w3_bbot">
                 <font style="vertical-align: inherit"
                   ><font style="vertical-align: inherit"
-                    >exklusive KLEID shoppen</font
+                    >exklusive Kleidershoppen</font
                   ></font
                 >
               </h4>
@@ -1218,7 +1218,7 @@
             ><font style="vertical-align: inherit">s</font></font
           ></span
         ><font style="vertical-align: inherit"
-          ><font style="vertical-align: inherit"> mart kLEID </font></font
+          ><font style="vertical-align: inherit"> mart Kleider</font></font
         >
       </h5>
       <div class="tabs tabs-style-line pt-md-5">
@@ -3456,17 +3456,17 @@
                     </font></font
                   ><span
                     ><font style="vertical-align: inherit"
-                      ><font style="vertical-align: inherit">M</font></font
+                      ><font style="vertical-align: inherit">H</font></font
                     ></span
                   ><font style="vertical-align: inherit"
-                    ><font style="vertical-align: inherit"> arkt</font></font
+                    ><font style="vertical-align: inherit"> aus</font></font
                   ></a
                 >
               </h2>
               <p>
                 <font style="vertical-align: inherit"
                   ><font style="vertical-align: inherit"
-                    >© 2020-24 KLEID-MARKT. </font
+                    >© 2020-24 Kleiderhaus. </font
                   ><font style="vertical-align: inherit"
                     >Alle Rechte vorbehalten</font
                   ></font
@@ -3734,44 +3734,7 @@
       gtag("config", "G-KQ7NDYSSHH");
     </script>
 
-    <div id="goog-gt-tt" class="skiptranslate" dir="ltr">
-      <div style="padding: 8px">
-        <div>
-          <div class="logo">
-            <img
-              src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png"
-              width="20"
-              height="20"
-              alt="Google Translate"
-            />
-          </div>
-        </div>
-      </div>
-      <div class="top" style="padding: 8px; float: left; width: 100%">
-        <h1 class="title gray">Original text</h1>
-      </div>
-      <div class="middle" style="padding: 8px">
-        <div class="original-text"></div>
-      </div>
-      <div class="bottom" style="padding: 8px">
-        <div class="activity-links">
-          <span class="activity-link">Contribute a better translation</span
-          ><span class="activity-link"></span>
-        </div>
-        <div class="started-activity-container">
-          <hr
-            style="
-              color: #ccc;
-              background-color: #ccc;
-              height: 1px;
-              border: none;
-            "
-          />
-          <div class="activity-root"></div>
-        </div>
-      </div>
-      <div class="status-message" style="display: none"></div>
-    </div>
+    
     <a href="#" id="toTop" style="display: none"
       ><span id="toTopHover"></span>To Top</a
     >

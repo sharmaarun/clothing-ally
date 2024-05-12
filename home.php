@@ -8,12 +8,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="zxx">
   <head>
-    <title>KLEID-MARKT</title>
+    <title>Kleiderhaus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="utf-8" />
     <meta
       name="keywords"
-      content="KLEID-MARKT Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+      content="Kleiderhaus Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design"
     />
     <script>
@@ -487,12 +487,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           <li class="banner banner2">
             <div class="container">
               <h3 class="agile_btxt">
-                <span>K</span>lothing <span>M</span>lly
+                <span>K</span>lothing <span>H</span>lly
               </h3>
               <h4 class="w3_bbot">shop exclusive clothing</h4>
               <div class="slider-info mt-sm-5">
                 <h4 class="bn_right">
-                  <span>m</span>en's <span>f</span>ashion
+                  <span>H</span>en's <span>f</span>ashion
                 </h4>
                 <div class="bnr_clip position-relative">
                   <h4>
@@ -527,7 +527,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           <li class="banner">
             <div class="container">
               <h3 class="agile_btxt">
-                <span>K</span>lothing <span>M</span>lly
+                <span>K</span>lothing <span>H</span>lly
               </h3>
               <h4 class="w3_bbot">shop exclusive clothing</h4>
               <div class="slider-info mt-sm-5">
@@ -566,7 +566,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           <li class="banner banner3">
             <div class="container">
               <h3 class="agile_btxt">
-                <span>K</span>lothing <span>M</span>lly
+                <span>K</span>lothing <span>H</span>lly
               </h3>
               <h4 class="w3_bbot">shop exclusive clothing</h4>
               <div class="slider-info mt-sm-5">
@@ -2292,9 +2292,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="cpy-right align-self-center">
               <h2 class="agile_btxt">
-                <a href="/"> <span>K</span>lothing <span>M</span>lly</a>
+                <a href="/"> <span>K</span>lothing <span>H</span>lly</a>
               </h2>
-              <p>© 2020-21 KLEID-MARKT. All rights reserved</p>
+              <p>© 2020-21 Kleiderhaus. All rights reserved</p>
             </div>
           </div>
         </div>
