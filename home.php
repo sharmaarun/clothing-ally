@@ -461,16 +461,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/about.html">About Us</a>
+                <a class="nav-link" href="/about.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/contact.html">Contact Us</a>
+                <a class="nav-link" href="/contact.php">Contact Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/privacy.html">Privacy</a>
+                <a class="nav-link" href="/privacy.php">Privacy</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/terms.html">Terms </a>
+                <a class="nav-link" href="/terms.php">Terms </a>
               </li>
             </ul>
           </div>
@@ -2250,16 +2250,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                   <a href="/">Home</a>
                 </li>
                 <li>
-                  <a href="/about.html">About Us</a>
+                  <a href="/about.php">About Us</a>
                 </li>
                 <li>
-                  <a href="/privacy.html">Privacy</a>
+                  <a href="/privacy.php">Privacy</a>
                 </li>
                 <li>
-                  <a href="/terms.html">Terms</a>
+                  <a href="/terms.php">Terms</a>
                 </li>
                 <li>
-                  <a href="/contact.html">Contact</a>
+                  <a href="/contact.php">Contact</a>
                 </li>
               </ul>
             </div>

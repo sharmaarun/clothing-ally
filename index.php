@@ -676,14 +676,14 @@
                 </div>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/about.html"
+                <a class="nav-link" href="/about.php"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit">Über uns</font></font
                   ></a
                 >
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/contact.html"
+                <a class="nav-link" href="/contact.php"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
                       >Kontaktiere uns</font
@@ -692,7 +692,7 @@
                 >
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/privacy.html"
+                <a class="nav-link" href="/privacy.php"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
                       >Privatsphäre</font
@@ -701,7 +701,7 @@
                 >
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/terms.html"
+                <a class="nav-link" href="/terms.php"
                   ><font style="vertical-align: inherit"
                     ><font style="vertical-align: inherit"
                       >Bedingungen
@@ -3373,7 +3373,7 @@
                   >
                 </li>
                 <li>
-                  <a href="/about.html"
+                  <a href="/about.php"
                     ><font style="vertical-align: inherit"
                       ><font style="vertical-align: inherit"
                         >Über uns</font
@@ -3382,7 +3382,7 @@
                   >
                 </li>
                 <li>
-                  <a href="/privacy.html"
+                  <a href="/privacy.php"
                     ><font style="vertical-align: inherit"
                       ><font style="vertical-align: inherit"
                         >Privatsphäre</font
@@ -3391,7 +3391,7 @@
                   >
                 </li>
                 <li>
-                  <a href="/terms.html"
+                  <a href="/terms.php"
                     ><font style="vertical-align: inherit"
                       ><font style="vertical-align: inherit"
                         >Bedingungen</font
@@ -3400,7 +3400,7 @@
                   >
                 </li>
                 <li>
-                  <a href="/contact.html"
+                  <a href="/contact.php"
                     ><font style="vertical-align: inherit"
                       ><font style="vertical-align: inherit"
                         >Kontakt</font

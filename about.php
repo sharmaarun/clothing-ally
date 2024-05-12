@@ -1,6 +1,6 @@
 <?php require __DIR__ . '/filter.php' ?>
 <!DOCTYPE html>
-<!-- saved from url=(0040)/about.html -->
+<!-- saved from url=(0040)/about.php -->
 <html lang="de" class="translated-ltr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Kleiderhaus</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -65,7 +65,7 @@
                             </a>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.html#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MännerkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.php#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MännerkLEID</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -98,7 +98,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.html#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FrauenkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.php#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FrauenkLEID</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="px-0 container">
                                     <div class="row">
@@ -128,7 +128,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown has-mega-menu" style="position:static;">
-                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.html#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KinderkLEID</font></font></a>
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="/about.php#" role="button" aria-haspopup="true" aria-expanded="false"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KinderkLEID</font></font></a>
                             <div class="dropdown-menu" style="width:100%">
                                 <div class="container">
                                     <div class="row w3_kids  py-3">
@@ -170,16 +170,16 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
+                            <a class="nav-link" href="/about.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
                         </li>
 						<li class="nav-item">
-                            <a class="nav-link" href="/contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontaktiere uns</font></font></a>
+                            <a class="nav-link" href="/contact.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontaktiere uns</font></font></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/privacy.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
+                            <a class="nav-link" href="/privacy.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
                         </li>
 						<li class="nav-item">
-                            <a class="nav-link" href="/terms.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen </font></font></a>
+                            <a class="nav-link" href="/terms.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen </font></font></a>
                         </li>
 						
                         
@@ -277,7 +277,7 @@
 											<div class="sign-in">
 												<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Passwort :</font></font></h4>
 												<input type="password" value="Password" onfocus="this.value = &#39;&#39;;" onblur="if (this.value == &#39;&#39;) {this.value = &#39;Password&#39;;}" required="">
-												<a href="/about.html#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Passwort vergessen?</font></font></a>
+												<a href="/about.php#"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Passwort vergessen?</font></font></a>
 											</div>
 											<div class="single-bottom">
 												<input type="checkbox" id="brand" value="">
@@ -290,14 +290,14 @@
 									</div>
 									<div class="clearfix"></div>
 								</div>
-								<p>By logging in you agree to our <a href="/about.html#">Terms and Conditions</a> and <a href="https://www.clothing-ally.com/about.html#">Privacy Policy</a></p>
+								<p>By logging in you agree to our <a href="/about.php#">Terms and Conditions</a> and <a href="https://www.clothing-ally.com/about.php#">Privacy Policy</a></p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 <!-- //login -->
-<a href="/about.html#home" class="scroll" id="toTop" style="display: none;"><span id="toTopHover"></span><span id="toTopHover"></span> <span id="toTopHover" style="opacity: 1;"> </span></a>
+<a href="/about.php#home" class="scroll" id="toTop" style="display: none;"><span id="toTopHover"></span><span id="toTopHover"></span> <span id="toTopHover" style="opacity: 1;"> </span></a>
 <!-- js -->
 <script type="text/javascript" src="./clothing_ally_germ_files/jquery-2.1.4.min.js"></script>
 <!-- //js -->	
@@ -383,16 +383,16 @@
                                 <a href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zuhause</font></font></a>
                             </li>
                             <li>
-                                <a href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
+                                <a href="/about.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
                             </li>
                             <li>
-                                <a href="/privacy.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
+                                <a href="/privacy.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
                             </li>
 							<li>
-                                <a href="/terms.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen</font></font></a>
+                                <a href="/terms.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen</font></font></a>
                             </li>
                             <li>
-                                <a href="/contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontakt</font></font></a>
+                                <a href="/contact.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontakt</font></font></a>
                             </li>
 
                         </ul>
@@ -456,7 +456,7 @@
                             <img src="./clothing_ally_germ_files/p3.png" class="img-fluid" alt="login_image">
                         </div>
                         <div class="col-md-6">
-                            <form action="/about.html#" method="post">
+                            <form action="/about.php#" method="post">
                                 <div class="form-group">
                                     <label for="recipient-name1" class="col-form-label">Your Name</label>
                                     <input type="text" class="form-control" placeholder=" " name="Name" id="recipient-name1" required="">
@@ -485,7 +485,7 @@
                                 </div>
                             </form>
                             <p class="text-center mt-3">Already a member?
-                                <a href="/about.html#" data-toggle="modal" data-target="#exampleModal1" class="text-dark login_btn">
+                                <a href="/about.php#" data-toggle="modal" data-target="#exampleModal1" class="text-dark login_btn">
                                     Login Now</a>
                             </p>
                         </div>
@@ -511,7 +511,7 @@
                             <img src="./clothing_ally_germ_files/p3.png" class="img-fluid" alt="login_image">
                         </div>
                         <div class="col-md-6">
-                            <form action="/about.html#" method="post">
+                            <form action="/about.php#" method="post">
                                 <div class="form-group">
                                     <label for="recipient-name" class="col-form-label">Your Name</label>
                                     <input type="text" class="form-control" placeholder=" " name="Name" id="recipient-name" required="">

@@ -168,16 +168,16 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
+                            <a class="nav-link" href="/about.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
                         </li>
 						<li class="nav-item">
-                            <a class="nav-link" href="/contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontaktiere uns</font></font></a>
+                            <a class="nav-link" href="/contact.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontaktiere uns</font></font></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/privacy.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
+                            <a class="nav-link" href="/privacy.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
                         </li>
 						<li class="nav-item">
-                            <a class="nav-link" href="/terms.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen </font></font></a>
+                            <a class="nav-link" href="/terms.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen </font></font></a>
                         </li>
 						
                         
@@ -417,16 +417,16 @@
                                 <a href="/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Zuhause</font></font></a>
                             </li>
                             <li>
-                                <a href="/about.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
+                                <a href="/about.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Über uns</font></font></a>
                             </li>
                             <li>
-                                <a href="/privacy.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
+                                <a href="/privacy.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Privatsphäre</font></font></a>
                             </li>
 							<li>
-                                <a href="/terms.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen</font></font></a>
+                                <a href="/terms.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bedingungen</font></font></a>
                             </li>
                             <li>
-                                <a href="/contact.html"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontakt</font></font></a>
+                                <a href="/contact.php"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Kontakt</font></font></a>
                             </li>
 
                         </ul>
