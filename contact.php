@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Burst Clothing</title>
+    <title>Cloth-Craft</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <meta name="keywords" content="Fashion Hub Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -42,7 +42,7 @@
             <nav class="top_nav d-flex pt-3 pb-1">
                 <!-- logo -->
                 <h1>
-                    <a class="navbar-brand" href="/">Burst Clothing
+                    <a class="navbar-brand" href="/">Cloth-Craft
                     </a>
                 </h1>
                 <!-- //logo -->
@@ -261,7 +261,7 @@
                         <h5 class="pb-3 text-capitalize">Email</h5>
                         
                         <p>
-                            <a href="mailto:info@burst-clothing.com">support@burst-clothing.com</a>
+                            <a href="mailto:info@cloth-craft.xyz">support@cloth-craft.xyz</a>
                         </p>
                     </div>
                     <!-- //contact details row ends here -->
@@ -471,7 +471,7 @@
                                 <span>C</span>lothing
                                 <span>A</span>lly</a>
                         </h2>
-                        <p>© 2020-21 Burst Clothing. All rights reserved 
+                        <p>© 2020-21 Cloth-Craft. All rights reserved 
                         </p>
                     </div>
                 </div>

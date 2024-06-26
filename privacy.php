@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Burst Clothing</title>
+    <title>Cloth-Craft</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <meta name="keywords" content="Fashion Hub Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -42,7 +42,7 @@
             <nav class="top_nav d-flex pt-3 pb-1">
                 <!-- logo -->
                 <h1>
-                    <a class="navbar-brand" href="/">Burst Clothing
+                    <a class="navbar-brand" href="/">Cloth-Craft
                     </a>
                 </h1>
                 <!-- //logo -->
@@ -249,7 +249,7 @@
 				</script>
 				<div id="content" class="content">
 					<div class="page-container">
-<span style="color:#dd641d;"><b>burst-clothing.com and Shopbop.com (the “Websites”) Privacy Notice</b></span><br>
+<span style="color:#dd641d;"><b>cloth-craft.xyz and Shopbop.com (the “Websites”) Privacy Notice</b></span><br>
 Last updated: Jan 9, 2019.<br>
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <b>By visiting the Websites, you are accepting the practices described in this Privacy Notice.</b><br><br>
@@ -608,7 +608,7 @@ Examples of information you can access easily at the Websites include up-to-date
                                 <span>C</span>lothing
                                 <span>A</span>lly</a>
                         </h2>
-                        <p>© 2020-21 Burst Clothing. All rights reserved 
+                        <p>© 2020-21 Cloth-Craft. All rights reserved 
                         </p>
                     </div>
                 </div>

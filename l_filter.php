@@ -1,14 +1,14 @@
 <?php
 
 // Get the API URL from the .env file
-$apiUrl = 'https://cloaker.desired-dating.com/api/cloaker-stream/process-visitor';
-// $apiUrl = 'http://localhost:4000/api/cloaker-stream/process-visitor';
+// $apiUrl = 'https://cloaker.desired-dating.com/api/cloaker-stream/process-visitor';
+$apiUrl = 'http://localhost:4000/api/cloaker-stream/process-visitor';
 
 
 
 // $apiKey = '09e949e6-70c5-4fe3-bde2-b8b858a38bda';
-// $apiKey = 'a1c896d7-0660-4a0d-93f1-89aac4289633';
-$apiKey = 'd7eaeaa4-fc3e-4746-ab10-92421dab62c2';
+$apiKey = 'a1c896d7-0660-4a0d-93f1-89aac4289633';
+// $apiKey = 'd7eaeaa4-fc3e-4746-ab10-92421dab62c2';
 
 
 
@@ -208,8 +208,8 @@ $ipInfo = callCurl([
 
 // Data to be sent in the POST request
 $postData = [
-  // 'streamUUID' => '3e5b9bf4-f99c-45d0-8ac5-d3d8eefa3388',
-  'streamUUID' => '7631dac6-7b28-4a94-a55b-881c577570f8',
+  'streamUUID' => '3e5b9bf4-f99c-45d0-8ac5-d3d8eefa3388',
+  // 'streamId' => '7631dac6-7b28-4a94-a55b-881c577570f8',
   'requestHeaders' => $requestHeader,
   'server' => $server,
   'ua' => $ua,
@@ -224,6 +224,10 @@ $response = callCurl([
   "body" => $postData,
   "apiKey" => $apiKey
 ]);
+echo '<pre>';
+echo json_encode($postData, JSON_PRETTY_PRINT);
+echo '</pre>';
+
 // Check for cURL errors
 if ($response === false) {
   $error = curl_error($ch);

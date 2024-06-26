@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Burst Clothing</title>
+    <title>Cloth-Craft</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8" />
     <meta name="keywords" content="Fashion Hub Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -42,7 +42,7 @@
             <nav class="top_nav d-flex pt-3 pb-1">
                 <!-- logo -->
                 <h1>
-                    <a class="navbar-brand" href="/">Burst Clothing
+                    <a class="navbar-brand" href="/">Cloth-Craft
                     </a>
                 </h1>
                 <!-- //logo -->
@@ -224,7 +224,7 @@
                                 <h5 class="card-title font-weight-bold">About Us</h5>
                                 <div class="col-md-12 ab_pic_w3ls_text_info">
 				    
-					<p>It’s our mission to change the way people find clothes they love by combining technology with the personal touch of seasoned style experts. The Burst Clothing experience is not merely curated—it’s truly personalized to you. We’re here to help you save time, look great and evolve your personal style over time.</p>
+					<p>It’s our mission to change the way people find clothes they love by combining technology with the personal touch of seasoned style experts. The Cloth-Craft experience is not merely curated—it’s truly personalized to you. We’re here to help you save time, look great and evolve your personal style over time.</p>
 					<p>We’re proud to work with thousands of passionate Stylists from all over the U.S. They’re trendsetters and fashion experts who are motivated to learn about your style and evolving needs, in order to find the perfect pieces for you. Your Style Profile answers and continued feedback powers the engine of the Stitch Fix experience.</p>
 				</div>
 				
@@ -435,7 +435,7 @@
                                 <span>C</span>lothing
                                 <span>A</span>lly</a>
                         </h2>
-                        <p>© 2020-21 Burst Clothing. All rights reserved 
+                        <p>© 2020-21 Cloth-Craft. All rights reserved 
                         </p>
                     </div>
                 </div>

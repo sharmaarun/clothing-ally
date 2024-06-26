@@ -8,12 +8,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="zxx">
   <head>
-    <title>Burst Clothing</title>
+    <title>Cloth-Craft</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="utf-8" />
     <meta
       name="keywords"
-      content="Burst Clothing Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+      content="Cloth-Craft Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
 	SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony Ericsson, Motorola web design"
     />
     <script>
@@ -65,7 +65,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <nav class="top_nav d-flex pt-3 pb-1">
           <!-- logo -->
           <h1>
-            <a class="navbar-brand" href="/">Burst Clothing </a>
+            <a class="navbar-brand" href="/">Cloth-Craft </a>
           </h1>
           <!-- //logo -->
           <div class="w3ls_right_nav ml-auto d-flex">
@@ -487,7 +487,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
           <li class="banner banner2">
             <div class="container">
               <h3 class="agile_btxt">
-                <span>B</span>urst <span>C</span>lothing 
+                <span>C</span>loth <span>C</span>raft 
               </h3>
               <h4 class="w3_bbot">shop exclusive clothing</h4>
               <div class="slider-info mt-sm-5">
@@ -2292,9 +2292,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
             <div class="cpy-right align-self-center">
               <h2 class="agile_btxt">
-                <a href="/"> <span>B</span>urst</a> <span>C</span>lothing 
+                <a href="/"> <span>C</span>loth</a> <span>C</span>raft 
               </h2>
-              <p>© 2020-21 Burst Clothing. All rights reserved</p>
+              <p>© 2020-21 Cloth-Craft. All rights reserved</p>
             </div>
           </div>
         </div>
